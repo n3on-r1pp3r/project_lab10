@@ -22,6 +22,11 @@
 - Тематика: мировые продажи видеоигр
 - Файл: `vgsales.csv`
 - Ссылка: https://www.kaggle.com/datasets/dandanjia/vgsales-csv
+
+Размер исходного датасета:
+- 16599 строк
+- 11 столбцов
+- колонки: Rank, Name, Platform, Year, Genre, Publisher, NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales
 ## Как запустить проект
 
 ### Шаг 1 — Установить зависимости
